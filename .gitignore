@@ -2,3 +2,4 @@ venv/
 __pycache__/
 app/__pycache__/
 app/routes/__pycache__/
+app/repository/__pycache__/
